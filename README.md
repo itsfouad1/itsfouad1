@@ -2,7 +2,7 @@
 
 <img width="1200" height="300" alt="banner" src="https://github.com/user-attachments/assets/14f8cdaf-5099-429d-8bc2-8d4215d31a58" />
 
-<h1>Hi, I'm Fouad 👋</h1>
+<h1>Hi, I'm FOUAD ADEL 👋</h1>
 
 <h3>Backend Developer | Computer Systems Engineering Student</h3>
 
